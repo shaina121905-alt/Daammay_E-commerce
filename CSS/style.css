@@ -5,13 +5,13 @@ body {
 }
 
 .hero-slide-1 {
-    background: url('../Images/Slide1.jpg') no-repeat center center;
+    background: url('../images/Slide1.jpg') no-repeat center center;
     background-size: cover;
     min-height: 450px;
 }
 
 .hero-slide-2 {
-    background: url('../Images/slide2.jpg') no-repeat center center;
+    background: url('../images/slide2.jpg') no-repeat center center;
     background-size: cover;
     min-height: 450px;
 }
